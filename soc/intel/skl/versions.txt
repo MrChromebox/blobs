@@ -1,0 +1,5 @@
+cpu_microcode_blob.bin:
+cpu406E3_platC0_ver000000EA_2021-01-25_PRD_0E1A5F5F.bin
+
+IntelGopDriver.efi: 9.0.1080
+
