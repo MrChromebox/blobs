@@ -1,0 +1,5 @@
+cpu_microcode_blob.bin:
+CPUID 506C9, platform 03, version 2C (2020-07-22)
+
+IntelGopDriver.efi: 10.0.1037
+
