@@ -1,0 +1,5 @@
+cpu_microcode_blob.bin:
+cpu306D4_platC0_ver0000002F_2019-11-12_PRD_8B6D899D.bin
+
+IntelGopDriver.efi: 5.5.1034
+
