@@ -1,0 +1,6 @@
+cpu_microcode_blob.bin:
+cpu206A7_plat12_ver0000002F_2019-02-17_PRD_8D15DF31.bin
+cpu306A9_plat12_ver00000021_2019-02-13_PRD_A8DF9213.bin
+
+IntelGopDriver.efi: 2.0.1024
+

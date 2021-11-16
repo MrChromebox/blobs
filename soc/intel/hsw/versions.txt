@@ -1,0 +1,5 @@
+cpu_microcode_blob.bin:
+cpu40651_plat72_ver00000026_2019-11-12_PRD_7784160A.bin
+
+IntelGopDriver.efi: 5.5.1034
+
