@@ -1,0 +1,7 @@
+cpu_microcode_blob.bin:
+cpu806E9_plat10_ver000000E8_2020-12-08_PRD_4620AAAD.bin
+cpu806E9_platC0_ver000000DE_2020-05-27_PRD_86ED8490.bin
+cpu806EA_platC0_ver000000E0_2020-06-17_PRD_BCACEE16.bin
+
+IntelGopDriver.efi: 9.0.1080
+

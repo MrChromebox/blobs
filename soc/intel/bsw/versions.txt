@@ -1,0 +1,6 @@
+cpu_microcode_blob.bin:
+cpu406C3_plat01_ver00000368_2019-04-23_PRD_CE4070DC.bin
+cpu406C4_plat01_ver00000411_2019-04-23_PRD_ABE7BD38.bin
+
+IntelGopDriver.efi: 8.0.1038
+
