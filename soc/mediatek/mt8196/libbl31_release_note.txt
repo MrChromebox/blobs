@@ -1,3 +1,12 @@
+# 16740.0.0
+
+- CL:*9492298 fix(mt8196): smmu_sid: write-lock SMMU SID configuration after boot init
+- CL:*9495635 refactor(mediatek): export emi_set_nsr_permission() symbol
+- CL:*9492295 fix(mt8196): secure APU DEVAPC configuration for ARE1
+- CL:*9492297 fix(mediatek): smpu: validate memory range in MPU control SMC
+- CL:*9492296 fix(mediatek): validate dev_id in mtk_cpc_prof_dev_name
+- CL:*9351181 PRESUBMIT.cfg: Disable keyword_check
+
 # 16733.0.0
 
 - CL:*9309521 fix(mt8196): smpu: Fix dynamic CMA regions not able clear protection
